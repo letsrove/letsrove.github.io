@@ -934,3 +934,7 @@
 		#main footer.major {
 			background: white;
 		}
+
+.form-success {
+  display: none;
+}
